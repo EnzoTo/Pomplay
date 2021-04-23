@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "157-1578690_spain-flag-football-logos-spain-logo-for-dream.png.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
