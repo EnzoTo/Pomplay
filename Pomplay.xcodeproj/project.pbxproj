@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FC27E7412632C6A40081F43C /* Retro.json in Resources */ = {isa = PBXBuildFile; fileRef = FC27E7402632C6A40081F43C /* Retro.json */; };
 		FC6E741426318CCA00E8A71F /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6E741326318CCA00E8A71F /* File.swift */; };
 		FC6E7418263219E600E8A71F /* File2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC6E7417263219E600E8A71F /* File2.swift */; };
 		FC8CEAB3262DBF1800349E40 /* PomplayApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC8CEAB2262DBF1800349E40 /* PomplayApp.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FC27E7402632C6A40081F43C /* Retro.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Retro.json; path = ../../Retro.json; sourceTree = "<group>"; };
 		FC6E741326318CCA00E8A71F /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		FC6E7417263219E600E8A71F /* File2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File2.swift; sourceTree = "<group>"; };
 		FC8CEAAF262DBF1700349E40 /* Pomplay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pomplay.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,7 +60,6 @@
 				FC6E7417263219E600E8A71F /* File2.swift */,
 				FC8CEAB2262DBF1800349E40 /* PomplayApp.swift */,
 				FC8CEAB4262DBF1800349E40 /* ContentView.swift */,
-				FC27E7402632C6A40081F43C /* Retro.json */,
 				FC8CEAB6262DBF1800349E40 /* Assets.xcassets */,
 				FC8CEABB262DBF1800349E40 /* Info.plist */,
 				FC8CEAB8262DBF1800349E40 /* Preview Content */,
@@ -135,7 +132,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC27E7412632C6A40081F43C /* Retro.json in Resources */,
 				FC8CEABA262DBF1800349E40 /* Preview Assets.xcassets in Resources */,
 				FC8CEAB7262DBF1800349E40 /* Assets.xcassets in Resources */,
 			);
